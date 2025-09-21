@@ -1,7 +1,7 @@
 # Проект работы в рамках ретрита FineBI: [Второе дыхание](https://bi.glowbyteconsulting.com/second-breath-day-1)
 
 ## Вводные данные.
-В рамках данного [проекта](https://bi.glowbyteconsulting.com/second-breath-day-1) была проделана работа над [датасетом](https://www.kaggle.com/datasets/bhanupratapbiswas/uber-data-analysis/data):
+В рамках данного проекта была проделана работа над [датасетом](https://www.kaggle.com/datasets/bhanupratapbiswas/uber-data-analysis/data):
 **Uber Data Analysis🚗 🚕**
 
 Выбор данного датасета был обоснован следующим:
