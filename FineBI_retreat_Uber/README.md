@@ -13,7 +13,7 @@
   * Дашборт на основании выбранного [датасета](https://www.kaggle.com/datasets/bhanupratapbiswas/uber-data-analysis/data).
   * Процесс предобработки датасета для загрузки в FineBI с помощью Python: [ссылка](https://github.com/NovikovaMary/Pet_projects/blob/main/FineBI_retreat_Uber/preprocessing_Uber.ipynb).
   * Предобработанный [датасет](https://github.com/NovikovaMary/Pet_projects/blob/main/FineBI_retreat_Uber/UberDataset_new.xlsx)
-  * Аналитическая записка: [ссылка на telegrapf](https://telegra.ph/Analitika-dannyh-Uber-2016-2017-gg-insajty-i-rekomendacii-09-18), согласно заданиям [ретрита](https://bi.glowbyteconsulting.com/second-breath-day-1)
+  * Аналитическая записка: [ссылка на telegrapf](https://telegra.ph/Analitika-dannyh-Uber-2016-2017-gg-insajty-i-rekomendacii-09-18), согласно заданиям ретрита.
 
 ## Общий вид дашборда.
 
